@@ -1,10 +1,9 @@
 {
-  "name": "rehanshop",
+  "name": "Proshop",
   "version": "1.0.0",
   "description": "MERN Ecommerce App",
   "main": "server.js",
-  "repository": "https://github.com/Rehankhalil462/ProShop-MERN-Stack.git",
-  "author": "Rehan Khalil",
+  "author": "Srishti Shukla",
   "license": "MIT",
   "type": "module",
   "scripts": {
