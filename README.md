@@ -1,5 +1,5 @@
 # E-Commerce Website - DigiDen
-https://digiden.herokuapp.com/
+https://taupe-springbok-cape.cyclic.app/
 1. An E-commerce website built using React, Redux, Node, Express & MongoDB
 2. It has Full featured shopping cart with PayPal & credit/debit payments integrated in the website along with checkout process (shipping, payment method, etc).
 3. Product search feature is enabled, carousels, pagination & more to increase the interactive experience.
